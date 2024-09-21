@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "question": "What is the main legal question addressed by the Supreme Court in this case?",
+      "answer": "The main legal question addressed is whether an arbitration agreement can be enforced when the underlying contract is unstamped, and whether allegations of fraudulent invocation of a bank guarantee are arbitrable."
+    },
+    {
+      "question": "What was the impact of the Commercial Court's order on 15.12.2017 regarding the bank guarantee?",
+      "answer": "The Commercial Court issued an ex parte interim order directing the status-quo to be maintained with respect to the enforcement of the Bank Guarantee."
+    },
+    {
+      "question": "How did Global Mercantile justify that Indo Unique was not entitled to encash the bank guarantee?",
+      "answer": "Global Mercantile argued that Indo Unique had not allotted any work under the Work Order, nor were any invoices raised or payments made, thus there was no loss justifying the invocation of the Bank Guarantee."
+    },
+    {
+      "question": "What is the significance of Clause 10 in the Work Order between Global Mercantile and Indo Unique?",
+      "answer": "Clause 10 of the Work Order incorporated an arbitration clause, stating that any disputes due to differences in interpretation or terms would be resolved through arbitration, with the arbitrator's decision being final and binding."
+    },
+    {
+      "question": "Why did the Bombay High Court uphold the arbitration agreement in its ruling?",
+      "answer": "The Bombay High Court upheld the arbitration agreement because it held that the disputes were arbitrable, and allegations of fraud did not preclude arbitration as they did not require voluminous evidence, thus rejecting the Commercial Court’s earlier ruling."
+    },
+    {
+      "question": "What was Global Mercantile’s argument regarding the applicability of Section 8 of the Arbitration and Conciliation Act?",
+      "answer": "Global Mercantile argued that Section 8 of the Arbitration and Conciliation Act was not applicable because the Bank Guarantee was an independent contract, which did not contain an arbitration clause."
+    },
+    {
+      "question": "How did the Commercial Court distinguish the arbitration clause from the Bank Guarantee?",
+      "answer": "The Commercial Court held that the arbitration clause in the Work Order was not a general arbitration clause, and therefore, did not apply to the independent Bank Guarantee contract."
+    },
+    {
+      "question": "What were the grounds on which Indo Unique sought arbitration under Section 8?",
+      "answer": "Indo Unique sought arbitration under Section 8 on the grounds that the disputes under the Work Order should be referred to arbitration based on the arbitration clause contained in the Work Order."
+    },
+    {
+      "question": "What was the Supreme Court’s stance on the separability of arbitration agreements in unstamped contracts?",
+      "answer": "The Supreme Court held that an arbitration agreement is separate and distinct from the substantive commercial contract, and its validity is not affected by the non-payment of stamp duty on the underlying contract."
+    },
+    {
+      "question": "What legal doctrine did the Supreme Court invoke to minimize judicial intervention in arbitration?",
+      "answer": "The Supreme Court invoked the kompetenz-kompetenz doctrine, which allows arbitral tribunals to rule on their own jurisdiction, including on the existence and validity of arbitration agreements, thereby minimizing judicial intervention."
+    },
+    {
+      "question": "What was the importance of the Writ Petition filed by Indo Unique in the Bombay High Court?",
+      "answer": "The Writ Petition was important because it sought to quash the Commercial Court’s order that restrained the invocation of the Bank Guarantee, and the Bombay High Court ultimately ruled in favor of arbitration."
+    },
+    {
+      "question": "How did the Supreme Court distinguish its ruling from the Garware Wall Ropes Limited judgment?",
+      "answer": "The Supreme Court overruled the judgment in Garware Wall Ropes Limited, holding that the arbitration agreement would still be enforceable even if the underlying contract is unstamped, focusing on the independent existence of the arbitration clause."
+    },
+    {
+      "question": "What was Global Mercantile’s argument regarding the non-payment of stamp duty?",
+      "answer": "Global Mercantile argued that the arbitration clause in the unstamped Work Order could not be enforced under the Stamp Act, as the Work Order itself could not be admitted in evidence or acted upon until it was duly stamped."
+    },
+    {
+      "question": "How did Indo Unique respond to the argument of non-payment of stamp duty?",
+      "answer": "Indo Unique responded by stating that the non-payment of stamp duty was a curable defect and that the agreement, including the arbitration clause, would become enforceable once the stamp duty was paid."
+    },
+    {
+      "question": "What was the impact of the Maharashtra Stamp Act on the arbitration agreement?",
+      "answer": "The Maharashtra Stamp Act required that the underlying Work Order be duly stamped before it could be enforced in court, but the arbitration agreement was considered separable and could still be enforced independently."
+    },
+    {
+      "question": "What was the significance of the Commercial Court’s rejection of the application under Section 8?",
+      "answer": "The Commercial Court’s rejection was significant because it held that the arbitration clause did not apply to the independent Bank Guarantee contract, which was a pivotal issue in the case."
+    },
+    {
+      "question": "Why did the Supreme Court emphasize the doctrine of separability in its ruling?",
+      "answer": "The Supreme Court emphasized the doctrine of separability to affirm that the arbitration agreement remains valid and enforceable even if the underlying contract is void or unenforceable due to being unstamped or otherwise defective."
+    },
+    {
+      "question": "What was the key issue related to the fraudulent invocation of the Bank Guarantee?",
+      "answer": "The key issue was whether the fraudulent invocation of the Bank Guarantee was arbitrable, and whether such disputes could be referred to arbitration as per the arbitration clause in the Work Order."
+    },
+    {
+      "question": "What does Section 34 of the Maharashtra Stamp Act state regarding unstamped documents?",
+      "answer": "Section 34 of the Maharashtra Stamp Act states that no unstamped document can be admitted in evidence or acted upon unless the requisite stamp duty and any penalties are paid."
+    },
+    {
+      "question": "What was the legal principle set out in SMS Tea Estates case relevant to this case?",
+      "answer": "In SMS Tea Estates, the Court held that an arbitration agreement in an unstamped contract could not be acted upon until the stamp duty is paid, but the Supreme Court in this case overruled that principle with respect to the arbitration clause."
+    }
+  ]
+}
